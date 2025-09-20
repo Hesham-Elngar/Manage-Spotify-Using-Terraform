@@ -1,0 +1,5 @@
+# Caddyfile
+https://127.0.0.1:27228 {
+    tls internal
+    reverse_proxy http://localhost:27229
+}
