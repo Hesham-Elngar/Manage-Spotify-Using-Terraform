@@ -1,1 +1,18 @@
-api_key = "BQB87gvO1EHjAcO3_Sy-h5kuhUPAWFbaBeYjbKoT7cFWbqfptE0DvTnA8nMx_fEjXKcyK2TafbWASXMMBfM-dosEWlgzAtBu9ugKDu7DKnYASC6KNpD0Gr91s6jwp7te9bsU34deYfBndUVGs1fUqVSonCFg_6uLbWmTMDWNmiKZR1lBAIZhtrHeSE5rzCK0YNho8ES5k8qDJ6-Oacmo2ogi7isXs9EtrVM_bTBYo-5WkqFWXpJw0hXaL9saIPd4mFW-P4oKsJ2hGF-JnaJ0dzzVoVuuNjShORlojxpCMw4JDq2cjTKwMBGEV4TwVLFPJgtrjTxes_btbMBhM8u43hAM"
+spotify_access_token = "BQAadnHY3jXjats9IBggVUZZlHq-rM1KV0z3mCnIe0eGssHo68et2BOvR7mxJs4Ie3DXCO1TDFBOoj6xo48SDzIjxroK0EPbzUyTeToMY47CtAk6a8wE_GrP8Bgl7AM3YE2bi8FgqEgnnxKnmfmSs-oqz7LWFUCprPkceiJjdNFM_UgtO0f6eTZX4yHxhVvaqNTYFtQExkwuaFNq_MzqPANbssmnQz50ShZKHLTagHEeBaOVORhmWULT03VFiZcpMwciBn-V_2I7ZxGJKCbzv7FOVnVmhI9LayNbU7AJwEbZup-stgkn3OewB2-wKLSRtcOpuxcq_jDngFQSBUp55E4-"
+
+
+# Optional: Customize your playlist
+playlist_name        = "My Awesome Terraform Playlist"
+playlist_description = "This playlist was created automatically with Terraform!"
+playlist_public      = false
+
+# You can add more tracks here if you want
+tracks = {
+  aloomek        = "4U7uW9KlqalDKu8ff9OyDm"
+  Basrah_w_Atooh = "4vIbws1xp082bv0zl8vLaJ"
+  BABA           = "1GkBG6kv0tDEDALIG7NR2K"
+  law_nasyany    = "2yGYedTBTlRtXzmlrXL4wi"
+  meen_ysdak     = "0vqR5QySiLJwGNHMnpQ4Hj"
+  james_Dean     = "1GKqff6G0zabRInKN9Vz1S"
+  Emshy          = "2uoPClqaphvHQd6zqtF8M2"
+}
